@@ -1,5 +1,6 @@
 db.sql
 passward
 *.log
+index.html
 node_module/
 !important.log
